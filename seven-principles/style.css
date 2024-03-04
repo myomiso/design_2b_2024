@@ -1,5 +1,9 @@
 h1 {
-    color:rgb(153, 188, 133);
     font-size: 100;
     font-style: bold;
+    color:rgb(153, 188, 133);
+}
+h2 {
+    font-size: 50;
+    color: rgb(191, 216, 175);
 }
