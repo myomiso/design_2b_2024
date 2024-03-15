@@ -1,0 +1,16 @@
+body{
+    background-color: darkorange
+}
+
+#lineOne{
+    color:purple;
+}
+
+#lineTwo{
+    font-size: 40px;
+}
+#lineThree{
+    font-family: 'Gelasio', serif;
+    font-size: 90px;
+    background-color:aqua;
+}
