@@ -19,8 +19,8 @@ body {
 	border-right: 100px solid transparent;
 	border-bottom: 200px solid rgb(255,242,204);
 	position: absolute;
-	top: 1000px;
-	left: 600px;
+	top: 400px;
+	left: 500px;
 	transform: scale(0.5);
 }
 
