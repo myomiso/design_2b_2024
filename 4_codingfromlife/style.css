@@ -30,7 +30,7 @@ body {
 	background: rgb(253,250,246);
 	top: 250px;
 	left: 300px;
-	position: static;
+	position: absolute;
 }
 
 #square2 {
