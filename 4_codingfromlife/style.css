@@ -57,3 +57,9 @@ body {
 	left: 300px;
 	position: static;
 }
+
+#square3 {
+	background: rgb(226,188,73);
+	width: 10px;
+	height: 400px;
+}
