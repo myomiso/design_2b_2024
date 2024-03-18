@@ -4,11 +4,11 @@ font-size: 100px;
 }
 
 body{
-    background-color: (253,253,150);
+    background-color: rgb(253,253,150);
 }
 
 #lineOne{
-    color:(255,161,156);
+    color:rgb(255,161,156);
 }
 
 #lineTwo{
@@ -17,5 +17,5 @@ body{
 #lineThree{
     font-family: 'Gelasio', serif;
     font-size: 90px;
-    background-color:(193,193,243);
+    background-color:rgb(193,193,243);
 }
