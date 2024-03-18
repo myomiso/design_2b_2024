@@ -1,10 +1,12 @@
 h1{
     font-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255,195,110)
 }
 
 body{
     background-color: rgb(253,253,150);
+    font-family: 'fantasy';
 }
 
 #lineOne{
@@ -16,7 +18,6 @@ body{
     font-size: 60px;
 }
 #lineThree{
-    font-family: 'Gelasio', serif;
     font-size: 90px;
     background-color: rgb(193,193,243);
     color: rgb(255,161,156)
