@@ -1,12 +1,12 @@
 h1{
     font-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(255,195,110)
+    color: rgb(193,193,243)
 }
 
 body{
     background-color: rgb(253,253,150);
-    font-family: 'fantasy';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #lineOne{
@@ -26,4 +26,11 @@ body{
     font-size: 70px;
     color: rgb(193,193,243);
     background-color: rgb(255,195,110);
+}
+#lineFive{
+    font-size: 60px;
+}
+#lineSix{
+    font-size: 50px;
+    color: rgb(255,161,156)
 }
