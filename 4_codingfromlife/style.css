@@ -55,5 +55,5 @@ body {
 	background: rgb(238,238,238);
 	top: 150px;
 	left: 300px;
-	position: absolute;
+	position: static;
 }
