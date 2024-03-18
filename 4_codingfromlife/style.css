@@ -25,12 +25,18 @@ body {
 }
 
 .square {
-	width: 100px;
-	height: 250px;
-	background: rgb(255,215,0);
+	width: 200px;
+	height: 350px;
+	background: rgb(253,250,246);
 	top: 250px;
-	left: 300px;
+	left: 350px;
 	position: absolute;
+}
+
+#square2 {
+	background: rgb(248,239,228);
+	width: 10px;
+	height: 350px;	
 }
 
 .circle {
@@ -41,10 +47,4 @@ body {
 	top: 150px;
 	left: 300px;
 	position: absolute;
-}
-
-#square2 {
-	background: rgb(244,171,54);
-	width: 10px;
-	height: 250px;	
 }
