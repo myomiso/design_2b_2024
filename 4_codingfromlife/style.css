@@ -19,7 +19,7 @@ body {
 	border-right: 100px solid transparent;
 	border-bottom: 200px solid yellow;
 	position: static;
-	top: 250px;
+	top: 150px;
 	left: 300px;
 	transform: scale(0.5);
 }
@@ -39,7 +39,7 @@ body {
 	background: rgb(117,71,46);
 	border-radius: 200px;
 	top: 150px;
-	left: 300px;
+	left: 600px;
 	position: absolute;
 }
 
