@@ -18,11 +18,11 @@ body{
 #lineThree{
     font-family: 'Gelasio', serif;
     font-size: 90px;
-    color: rgb(255,161,156)
     background-color: rgb(193,193,243);
+    color: rgb(255,161,156)
 }
 #lineFour{
     font-size: 70px;
     color: rgb(193,193,243);
-    background-color: rgb(255,161,156);
+    background-color: rgb(255,195,110);
 }
