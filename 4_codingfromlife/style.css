@@ -21,6 +21,7 @@ body {
 	position: absolute;
 	top: 150px;
 	left: 350px;
+	transform: scale(0.5);
 }
 
 .square {
@@ -63,4 +64,5 @@ body {
 	background: rgb(226,188,73);
 	top: 450px;
 	left: 450px;
+	position: absolute;
 }
