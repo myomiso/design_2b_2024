@@ -19,7 +19,7 @@ body {
 	border-right: 100px solid transparent;
 	border-bottom: 200px solid rgb(255,242,204);
 	position: absolute;
-	top: 190px;
+	top: 150px;
 	left: 350px;
 	transform: scale(0.5);
 }
