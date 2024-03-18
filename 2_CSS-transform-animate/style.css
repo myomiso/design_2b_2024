@@ -3,6 +3,7 @@ body {
     background-color: rgb(244,207,199);
     color: black;
     font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 div {
@@ -20,12 +21,12 @@ p {
 /* Step 1: Mess around with this animation setup. See what happens */
 @keyframes test {
     0% {
-        color: blue;
+        color: rgb(114,140,176);
         transform: skew(-15deg, 15deg) rotate(45deg) scale(2) scale(1);
     }
 
     100% {
-        color: red;
+        color: rgb(249,222,135);
         transform: skew(-15deg, 15deg) rotate(45deg) scale(2) scale(4) translateY(100);
     }
 }
