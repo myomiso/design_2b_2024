@@ -34,17 +34,17 @@ body {
 }
 
 .circle {
-	width: 200px;
-	height: 200px;
-	background: blue;
+	width: 100px;
+	height: 100px;
+	background: rgb(255,215,0);
 	border-radius: 200px;
-	top: 160px;
-	left: 600px;
+	top: 150px;
+	left: 300px;
 	position: absolute;
 }
 
 #square2 {
-	background: rgb(107,142,35);
+	background: rgb(229,228,226);
 	width: 10px;
-	height: 100px;	
+	height: 150px;	
 }
