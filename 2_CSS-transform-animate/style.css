@@ -26,7 +26,7 @@ p {
     }
 
     100% {
-        color: rgb(249,222,135);
+        color: rgb(231,151,150);
         transform: skew(-15deg, 15deg) rotate(45deg) scale(2) scale(4) translateY(100);
     }
 }
