@@ -1,5 +1,5 @@
 h1 {
-font-family: 'Nabla', serif;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 font-size: 100px;
 }
 
@@ -9,6 +9,7 @@ body{
 
 #lineOne{
     color:rgb(255,161,156);
+    font-size: 50px;
 }
 
 #lineTwo{
