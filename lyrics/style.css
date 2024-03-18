@@ -16,6 +16,7 @@ body{
 
 #lineTwo{
     font-size: 60px;
+    color: rgb(255,195,110)
 }
 #lineThree{
     font-size: 90px;
@@ -29,6 +30,7 @@ body{
 }
 #lineFive{
     font-size: 60px;
+    color: rgb(255,195,110)
 }
 #lineSix{
     font-size: 50px;
