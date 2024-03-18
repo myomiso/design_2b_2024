@@ -16,8 +16,8 @@ body{
 
 #lineTwo{
     font-size: 60px;
-    color: rgb(255,161,156);
-    background-color: rgb(255,161,156)
+    background-color: rgb(255,161,156);
+    color: rgb(255,195,110)
 }
 #lineThree{
     font-size: 90px;
@@ -31,7 +31,7 @@ body{
 }
 #lineFive{
     font-size: 60px;
-    color: rgb(255,161,156)
+    color: rgb(255,195,110);
     background-color: rgb(255,161,156)
 }
 #lineSix{
