@@ -1,16 +1,21 @@
+h1 {
+font-family: 'Nabla', serif;
+font-size: 100px;
+}
+
 body{
-    background-color: darkorange
+    background-color: (253,253,150)
 }
 
 #lineOne{
-    color:purple;
+    color:(255,161,156);
 }
 
 #lineTwo{
-    font-size: 40px;
+    font-size: 60px;
 }
 #lineThree{
     font-family: 'Gelasio', serif;
     font-size: 90px;
-    background-color:aqua;
+    background-color:(193,193,243);
 }
