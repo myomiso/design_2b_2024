@@ -28,7 +28,7 @@ body {
 	width: 100px;
 	height: 250px;
 	background: rgb(255,215,0);
-	top: 400px;
+	top: 250px;
 	left: 300px;
 	position: absolute;
 }
@@ -46,5 +46,5 @@ body {
 #square2 {
 	background: rgb(244,171,54);
 	width: 10px;
-	height: 150px;	
+	height: 250px;	
 }
