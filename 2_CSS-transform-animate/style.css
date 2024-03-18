@@ -26,6 +26,16 @@ p {
         transform: skew(-15deg, 15deg) rotate(50deg) scale(2) scale(1);
     }
 
+    45% {
+        color: rgb(249,222,135);
+        transform: none;
+    }
+
+    50% {
+        color: rgb(249,222,135);
+        transform: none;
+    }
+
     100% {
         color: rgb(231,151,150);
         transform: skew(-15deg, 15deg) rotate(50deg) scale(2) scale(3) translateY(100);
