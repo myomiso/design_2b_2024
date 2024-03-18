@@ -19,8 +19,8 @@ body {
 	border-right: 100px solid transparent;
 	border-bottom: 200px solid yellow;
 	position: absolute;
-	top: 160px;
-	left: 100px;
+	top: 150px;
+	left: 300px;
 	transform: scale(0.5);
 }
 
