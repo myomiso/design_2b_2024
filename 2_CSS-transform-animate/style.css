@@ -28,6 +28,6 @@ p {
 
     100% {
         color: rgb(231,151,150);
-        transform: skew(-15deg, 15deg) rotate(50deg) scale(2) scale(4) translateY(100);
+        transform: skew(-15deg, 15deg) rotate(50deg) scale(2) scale(3) translateY(100);
     }
 }
