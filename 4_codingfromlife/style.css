@@ -13,7 +13,7 @@ body {
 
 /* modify the assets below */
 .triangle {
-	width: 1000px;
+	width: 600px;
 	height: 550px;
 	border-left: 100px solid transparent;
 	border-right: 100px solid transparent;
