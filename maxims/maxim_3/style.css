@@ -21,14 +21,14 @@ p {
 
 @keyframes text {
     0% {
-        transform: scale(100)
+        transform: scale(100);
     }
 
     50% {
-        transform: scale(300)
+        transform: scale(300);
     }
 
     100% {
-        transform: scale(500)
+        transform: scale(500);
     }
 }

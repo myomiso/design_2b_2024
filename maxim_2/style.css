@@ -19,11 +19,12 @@ p{
     animation: test 2s
 }
 
-.logo {
-    opacity: 0;
-    transition: opacity 230ms ease-in-out;
-}
-
-.logo:hover {
-    opacity: 1;
+@keyframes slidein {
+    from {
+        transform: translateX(-300px);
+    }
+    
+    to {
+        transform: translateX(0);
+    }
 }
