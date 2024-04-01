@@ -19,7 +19,6 @@ p {
     animation: test 2s linear alternate infinite;
 }
 
-/* Step 1: Mess around with this animation setup. See what happens */
 @keyframes test {
     0% {
         color: rgb(114,140,176);

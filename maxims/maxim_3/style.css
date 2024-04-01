@@ -14,3 +14,17 @@ div {
     margin-right: auto;
     text-align: center;
 }
+
+@keyframes text {
+    0% {
+        transform: scale(100)
+    }
+
+    50% {
+        transform: scale(300)
+    }
+
+    100% {
+        transform: scale(500)
+    }
+}
