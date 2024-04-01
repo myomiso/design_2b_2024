@@ -15,6 +15,10 @@ div {
     text-align: center;
 }
 
+p{
+    animation: test 2s
+}
+
 .logo {
     opacity: 0;
     transition: opacity 230ms ease-in-out;

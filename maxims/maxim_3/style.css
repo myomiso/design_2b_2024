@@ -15,6 +15,10 @@ div {
     text-align: center;
 }
 
+p {
+    animation: test 2s
+}
+
 @keyframes text {
     0% {
         transform: scale(100)
