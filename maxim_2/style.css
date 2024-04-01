@@ -14,3 +14,12 @@ div {
     margin-right: auto;
     text-align: center;
 }
+
+.logo {
+    opacity: 0;
+    transition: opacity 230ms ease-in-out;
+}
+
+.logo:hover {
+    opacity: 1;
+}
