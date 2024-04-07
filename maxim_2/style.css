@@ -15,15 +15,15 @@ div {
     text-align: center;
 }
 
-p{
-    animation: test 2s
+#text {
+    animation: slidein 2s;
 }
 
 @keyframes slidein {
     from {
         transform: translateX(-300px);
     }
-    
+
     to {
         transform: translateX(0);
     }
