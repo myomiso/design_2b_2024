@@ -25,7 +25,7 @@ body {
     text-align: right;
 }
 
-#louder {
+#louder span {
     animation: shake .8s ease-in;
 }
 
