@@ -1,15 +1,10 @@
 body {
-    width: 100vw;
+    width: 70vw;
     background-color: rgb(155,190,200);
     color: #164863;
-    font-size: 200px;
+    font-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
-}
-
-#prevlink {
-    font-size: 20px;
-    text-align: left;
 }
 
 #link {
@@ -37,5 +32,19 @@ body {
 
     to {
         transform: translateX(0);
+    }
+}
+
+#thick {
+    animation: thick 3s;
+}
+
+@keyframes thick {
+    from {
+        scale: 100%;
+    }
+
+    to {
+        scale: 150%;
     }
 }
