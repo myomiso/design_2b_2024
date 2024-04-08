@@ -1,8 +1,8 @@
 body {
-    width: 100vw;
+    width: 50vw;
     background-color: rgb(155,190,200);
     color: #164863;
-    font-size: 200px;
+    font-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
 }
