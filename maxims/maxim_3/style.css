@@ -2,20 +2,20 @@ body {
     width: 50vw;
     background-color: rgb(144,140,180);
     color: rgb(245,203,78);
-    font-size: 100px;
+    font-size: 80px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
 }
 
 div {
     width: 60%;
-    margin-top: 300px;
+    margin-top: 500px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
-#text {
+text {
     animation: text 2s;
 }
 
