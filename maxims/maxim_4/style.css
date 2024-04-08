@@ -7,6 +7,10 @@ body {
     font-weight: bold;
 }
 
+#loader {
+    align-items: center;
+}
+
 #prevlink {
     font-size: 20px;
     text-align: left;
@@ -25,7 +29,8 @@ body {
     position:relative;
     font-size: 50px;
     text-transform: uppercase;
-    animation: animate 6s ease-in-out infinite;
+    display: inline-block;
+    animation: animate 2s ease-in-out infinite;
     animation-delay: calc(0.1s * var(--i));
 }
 
@@ -36,77 +41,4 @@ body {
     20% {
         transform: translateY(-50px);
     }
-}
-
-.loader > span:nth-child(1) {
-    animation-delay: 0.25s;
-}
-.loader > span:nth-child(2) {
-    animation-delay: 0.5s;
-}
-.loader > span:nth-child(3) {
-    animation-delay: 0.75s;
-}
-.loader > span:nth-child(4) {
-    animation-delay: 1s;
-}
-.loader > span:nth-child(5) {
-    animation-delay: 1.25s;
-}
-.loader > span:nth-child(6) {
-    animation-delay: 1.5s;
-}
-.loader > span:nth-child(7) {
-    animation-delay: 1.75s;
-}
-.loader > span:nth-child(8) {
-    animation-delay: 2s;
-}
-.loader > span:nth-child(9) {
-    animation-delay: 2.25s;
-}
-.loader > span:nth-child(10) {
-    animation-delay: 2.5s;
-}
-.loader > span:nth-child(11) {
-    animation-delay: 2.75s;
-}
-.loader > span:nth-child(12) {
-    animation-delay: 3s;
-}
-.loader > span:nth-child(13) {
-    animation-delay: 3.25s;
-}
-.loader > span:nth-child(14) {
-    animation-delay: 3.5s;
-}
-.loader > span:nth-child(15) {
-    animation-delay: 3.75s;
-}
-.loader > span:nth-child(16) {
-    animation-delay: 4s;
-}
-.loader > span:nth-child(17) {
-    animation-delay: 4.25s;
-}
-.loader > span:nth-child(18) {
-    animation-delay: 4.25s;
-}
-.loader > span:nth-child(19) {
-    animation-delay: 4.5s;
-}
-.loader > span:nth-child(20) {
-    animation-delay: 4.75s;
-}
-.loader > span:nth-child(21) {
-    animation-delay: 5s;
-}
-.loader > span:nth-child(22) {
-    animation-delay: 5.25s;
-}
-.loader > span:nth-child(23) {
-    animation-delay: 5.5s;
-}
-.loader > span:nth-child(24) {
-    animation-delay: 5.75s;
 }
