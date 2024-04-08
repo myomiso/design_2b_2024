@@ -15,10 +15,12 @@ body {
 #thick {
     font-size: 500px;
     font-weight: bold;
+    color: rgb(48,77,109);
 }
 
 #thin {
     font-weight: lighter;
+    color: rgb(221,242,253);
 }
 
 #text {
