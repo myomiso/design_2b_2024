@@ -28,7 +28,7 @@ body {
     text-align: right;
 }
 
-text {
+glow {
     animation: glow 3s linear infinite;
 }
 

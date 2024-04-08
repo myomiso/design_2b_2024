@@ -1,9 +1,11 @@
+@import url(https://fonts.google.com/specimen/Pacifico);
+
 body {
     width: 30vw;
     background-color: rgb(192,192,192);
     color: rgb(112,128,144);
     font-size: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Pacifico' cursive;
     font-weight: bold;
 }
 
