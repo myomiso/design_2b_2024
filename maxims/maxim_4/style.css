@@ -10,6 +10,9 @@ body {
 }
 
 #loader {
+    margin-top: center;
+    margin-left: center;
+    margin-right: center;
     align-items: center;
 }
 
