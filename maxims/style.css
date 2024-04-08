@@ -15,11 +15,11 @@ div {
     text-align: center;
 }
 
-p {
-    animation: test 2s linear alternate infinite;
+#text {
+    animation: text 2s linear alternate infinite;
 }
 
-@keyframes test {
+@keyframes text {
     0% {
         color: rgb(114,140,176);
         transform: skew(-15deg, 15deg) rotate(50deg) scale(2) scale(1);
