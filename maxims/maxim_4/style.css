@@ -17,15 +17,16 @@ body {
     text-align: right;
 }
 
-.loader span {
+#loader span {
     position: relative;
 }
 
-.loader span {
+#loader span {
     position:relative;
     font-size: 50px;
     text-transform: uppercase;
     animation: animate 6s ease-in-out infinite;
+    animation-delay: calc(0.1s * var(--i));
 }
 
 @keyframes animate {
