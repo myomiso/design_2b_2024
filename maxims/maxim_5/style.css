@@ -1,5 +1,3 @@
-@import url(https://fonts.google.com/specimen/Baloo+Thambi+2);
-
 body {
     width: 100vw;
     background-color: rgb(255,203,221);
@@ -10,21 +8,43 @@ body {
 }
 
 div {
+    display: flex;
+    justify-content: center;
     width: 60%;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
-.glow > span {
-    animation: glow 2s ease-in-out infinite;
+#prevlink {
+    font-size: 20px;
+    text-align: left;
 }
 
-@keyframes glow{
-    0%, 100%{
+#link {
+    font-size: 20px;
+    text-align: right;
+}
+
+text > span {
+    animation: glow 3s linear infinite;
+}
+
+@keyframes glow {
+    0%{
         color: rgb(62,0,12);
-        text-shadow: 0 0 12px red, 0 0 50px red, 0 0 100px red;
+        filter: blur(2px) hue-rotate(0deg);
+        text-shadow: 0 0 1px red,
+        0 0 20px red, 
+        0 0 40px red,
+        0 0 80px red,
+        0 0 120px red,
+        0 0 200px red,
+        0 0 300px red,
+        0 0 400px red;
+
     }
     10%, 90%{
         color: rgb(62,0,12);
