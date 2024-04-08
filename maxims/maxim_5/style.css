@@ -44,10 +44,26 @@ text > span {
         0 0 200px red,
         0 0 300px red,
         0 0 400px red;
-
     }
-    10%, 90%{
+    30%, 70% {
         color: rgb(62,0,12);
-        text-shadow: none;
+        filter: blur(2px) hue-rotate(360deg);
+        text-shadow: 0 0 1px red,
+        0 0 20px red, 
+        0 0 40px red,
+        0 0 80px red,
+        0 0 120px red,
+        0 0 200px red;
+    }
+    100%{
+        color: transparent;
+        box-shadow: none;
+        filter: blur(2px) hue-rotate(0deg);
+        text-shadow: 0 0 1px red,
+        0 0 20px red, 
+        0 0 40px red,
+        0 0 80px red,
+        0 0 120px red,
+        0 0 200px red;
     }
 }
