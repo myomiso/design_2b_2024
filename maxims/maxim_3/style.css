@@ -1,7 +1,7 @@
 body {
     background-color: rgb(144,140,180);
     color: rgb(245,203,78);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Baloo Thambi', cursive;
     font-weight: bold;
 }
 
@@ -25,7 +25,7 @@ body {
     text-align: right;
 }
 
-#louder span {
+#text {
     animation: shake .8s ease-in;
 }
 
