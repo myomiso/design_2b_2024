@@ -1,4 +1,4 @@
-@import url(https://fonts.google.com/specimen/Pacifico);
+@import url('https://fonts.google.com/specimen/Pacifico');
 
 body {
     width: 30vw;
@@ -32,7 +32,7 @@ body {
 
 #loader span {
     position:relative;
-    font-size: 50px;
+    font-size: 60px;
     text-transform: uppercase;
     display: inline-block;
     animation: animate 2s ease-in-out infinite;
